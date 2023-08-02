@@ -1,0 +1,70 @@
+.menu{
+    width: 1440px;
+height: 54px;
+flex-shrink: 0;
+background: #41A6A6;
+}
+
+.menu-texto{
+    width: 302px;
+height: 42px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
+
+.cabec{
+   width: 1440px;
+   height: 382px;
+   flex-shrink: 0;
+   background: #41A6A6;
+}
+
+.cabec-avatar{
+    width: 330px;
+    height: 340px;
+    
+}
+
+.cabec-texto{
+    color: #FFF8F8;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 220px;
+left: 420px;
+    
+}
+
+
+
+
+.mensagem-texto{
+    color: #000;
+    font-size: 30px;
+    font-family: Inter;
+    “não desista dos seus sonhos”;
+}
+.corpo{
+    width: 1440px;
+height: 490px;
+flex-shrink: 0;
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
+    background: linear-gradient(180deg, #41A6A6 0%, rgba(217, 217, 217, 0.00) 100%);
+}
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
+}
+.corpo-itens-img{
+    width: 280px;
+}
