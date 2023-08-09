@@ -26,8 +26,10 @@ flex-shrink: 0;
 }
 
 .cabec-avatar{
+    position: absolute;
+    left: 50px;
     width: 330px;
-    height: 340px;
+    
     
 }
 
